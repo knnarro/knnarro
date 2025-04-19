@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWloaXJzd2xodDMxdnE5MDVodDRyNjhmNnNhMDg4OXNmajdzMDNiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lU2bLTOl26vC/giphy.gif)
 <!--
 **knnarro/knnarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
