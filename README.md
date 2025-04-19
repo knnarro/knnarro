@@ -1,15 +1,19 @@
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWloaXJzd2xodDMxdnE5MDVodDRyNjhmNnNhMDg4OXNmajdzMDNiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lU2bLTOl26vC/giphy.gif)
-<!--
-**knnarro/knnarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🥁 Rhythm is Code. Code is Rhythm.</h1>
+<p align="center"><i>Let your logic groove. 🎶</i></p>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td align="center"><b>😎 Expectation</b><br/><sub>Dreaming of my inner Travis Barker</sub></td>
+    <td align="center"><b>🫠 Reality</b><br/><sub>Just me... struggling with the beat</sub></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/60ade256-2a72-4a60-a619-b24903938476" width="300"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/25ce2b86-9579-4ee8-87d6-5daf5b81efb8" width="300"/>
+    </td>
+  </tr>
+</table>
