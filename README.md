@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/1b8a7aa4-1712-4ea7-83af-7a178689c9fd">
 </p>
 <p align="center">
-  <i>Let your logic groove. 🎶</i>
+  <em>Let your logic groove. 🎶</em>
 </p>
 <br/>
 
@@ -29,3 +29,18 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
 </p>
+<br/>
+
+<h3 align="center">💚 I love</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-🥁 Drums-red?style=flat" />
+  <img src="https://img.shields.io/badge/-🐦 Birds-skyblue?style=flat" />
+  <img src="https://img.shields.io/badge/-☕ Coffee-6F4E37?style=flat" />
+  <img src="https://img.shields.io/badge/-🌊 Ocean-blue?style=flat" />
+  <img src="https://img.shields.io/badge/-🍺 Beer-yellow?style=flat" />
+  <img src="https://img.shields.io/badge/-👟 Jogging-mediumseagreen?style=flat" />
+  <br/>
+  <em>and... </em>
+  <img src="https://img.shields.io/badge/-🛌 Lying_Down-lightgrey?style=flat" />
+</p>
+<br/>
