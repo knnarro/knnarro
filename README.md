@@ -1,13 +1,10 @@
-<h1 align="center">🥁 Rhythm is Code. Code is Rhythm.</h1>
+<h1 align="center">👋 Hi, there!</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1b8a7aa4-1712-4ea7-83af-7a178689c9fd">
 </p>
-<p align="center">
-  <em>Let your logic groove. 🎶</em>
-</p>
 <br/>
 
-<h3 align="center">💪 I can</h3>
+<h3 align="center">💪 I work with</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
@@ -31,7 +28,7 @@
 </p>
 <br/>
 
-<h3 align="center">💚 I love</h3>
+<h3 align="center">💚 Things I love</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-🥁 Drums-red?style=flat" />
   <img src="https://img.shields.io/badge/-🐦 Birds-skyblue?style=flat" />
@@ -40,7 +37,6 @@
   <img src="https://img.shields.io/badge/-🍺 Beer-yellow?style=flat" />
   <img src="https://img.shields.io/badge/-👟 Jogging-mediumseagreen?style=flat" />
   <br/>
-  <em>and... </em>
   <img src="https://img.shields.io/badge/-🛌 Lying_Down-lightgrey?style=flat" />
 </p>
 <br/>
